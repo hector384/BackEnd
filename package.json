@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jpa": "^1.0.0",
+    "repository": "^0.2.0"
+  }
+}
